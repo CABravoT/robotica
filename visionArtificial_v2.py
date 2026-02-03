@@ -20,10 +20,10 @@ LATEST_RESULT = None
 
 # --- GESTOS RECONOCIDOS ---
 GESTOS = {
-    "OK": "👌",
-    "PULGAR_ARRIBA": "👍",
-    "VICTORIA": "✌️",
-    "L": "L",
+    "OK",
+    "PULGAR_ARRIBA",
+    "VICTORIA",
+    "L",
     "NINGUNO": "..."
 }
 
